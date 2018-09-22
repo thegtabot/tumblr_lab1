@@ -2,7 +2,7 @@
 
 **Tumblr** is a photo browsing app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
 
-Time spent: **10** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -41,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright [2018] [Avishek Thapa Magar]
+Copyright [2018] [Malcolm Gilmore]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
