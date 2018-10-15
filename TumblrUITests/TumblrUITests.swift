@@ -1,10 +1,4 @@
-//
-//  TumblrUITests.swift
-//  TumblrUITests
-//
-//  Created by Avishek Thapa Magar on 9/11/18.
-//  Copyright © 2018 Avishek Thapa Magar. All rights reserved.
-//
+
 
 import XCTest
 
